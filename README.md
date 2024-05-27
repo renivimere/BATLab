@@ -2,7 +2,8 @@
 EVSELab - HUST  
 Le Minh Quan  
 **BATLab** is an abbreviation for **Battery Automated Testing Laboratory**.  
-![BATLab](images/BATLab)
+
+![BATLab](images/BATLab.png)
 
 # Overview
 BATLab is a software developed to automate experimental procedures and test the characteristics and parameters of batteries. This software is developed within the .NET Framework under the .NET Platform, utilizing the C# language and packages from NuGet.
