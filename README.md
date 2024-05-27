@@ -1,13 +1,13 @@
 # BATLab
 EVSELab - HUST  
 Le Minh Quan  
-BATLab is an abbreviation for Battery Automated Testing Laboratory.  
+**BATLab** is an abbreviation for **Battery Automated Testing Laboratory**.  
 ![BATLab](images/BATLab)
 
 # Overview
 BATLab is a software developed to automate experimental procedures and test the characteristics and parameters of batteries. This software is developed within the .NET Framework under the .NET Platform, utilizing the C# language and packages from NuGet.
 
-This repository serves as a prototype for the BATLab software, which is built upon existing serial monitor software solutions (e.g. [Serial Oscilloscope](https://github.com/xioTechnologies/Serial-Oscilloscope)) and battery testers software available in the community (utilizing software reverse engineering techniques).
+This repository serves as a prototype for the BATLab software, which is built upon existing serial monitor software solutions (e.g. [Serial Oscilloscope](https://github.com/xioTechnologies/Serial-Oscilloscope)) and battery testers software (e.g. [ZKETech EB Tester Software](http://www.zketech.com/nd.jsp?id=14)) available in the community (utilizing software reverse engineering techniques).
 
 ## Key Features
 - **Serial Monitor:** BATLab has the capability to run independently as a serial monitor (inheriting functionalities from [Serial Oscilloscope](https://github.com/xioTechnologies/Serial-Oscilloscope)), enabling real-time monitoring and analysis of embedded device performance without the need for additional software. This dual-window system enhances threading capabilities, ensuring efficient handling of data transmission and reception, thereby optimizing performance during testing and analysis.
